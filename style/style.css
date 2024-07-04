@@ -15,7 +15,7 @@ h1{
     font-family: "Ga Maamli", sans-serif;
 }
 #heading-parent{
-    background-image:linear-gradient(45deg, rgb(204, 5, 204), transparent), url("/media/image/hero.gif");
+    background-image:linear-gradient(45deg, rgb(204, 5, 204), transparent), url("../media/image/hero.gif");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-image: linear-gradient(75deg, red, gold); */
