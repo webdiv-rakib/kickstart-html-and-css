@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Space+Grotesk:wght@300..700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -10,6 +12,7 @@ h1{
     text-decoration: overline;
     font-size: 80px;
     text-align: center;
+    font-family: "Ga Maamli", sans-serif;
 }
 #heading-parent{
     background-image:linear-gradient(45deg, rgb(204, 5, 204), transparent), url("/media/image/hero.gif");
@@ -39,4 +42,5 @@ h1{
     border-radius: 6px;
     font-size: 20px;
     margin: 10px;
+    font-family: "Space Grotesk", sans-serif;
 }
