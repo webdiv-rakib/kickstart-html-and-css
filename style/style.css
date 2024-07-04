@@ -43,4 +43,10 @@ h1{
     font-size: 20px;
     margin: 10px;
     font-family: "Space Grotesk", sans-serif;
+    transition: all 2s;
+}
+.btn:hover{
+    background-image: linear-gradient(to left,red,gold);
+    transform: scale(1.5);
+    cursor: pointer;
 }
